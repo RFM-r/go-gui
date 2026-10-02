@@ -1,0 +1,6 @@
+/go-gui
+/go-gui-*
+.env
+.idea/
+.vscode/
+*.iml
